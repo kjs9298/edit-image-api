@@ -8,4 +8,5 @@ class ManageImageApiApplication
 
 fun main(args: Array<String>) {
     runApplication<ManageImageApiApplication>(*args)
+
 }
