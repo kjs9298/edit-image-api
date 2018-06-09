@@ -1,2 +1,2 @@
-# manage-image-api
-This is a repository for managing images easily.
+# edit-image-api
+This is APIs that can edit images easily.
