@@ -1,2 +1,2 @@
-# edit-image-api
-This is APIs that can edit images easily.
+# example-kotlin-spring-boot
+

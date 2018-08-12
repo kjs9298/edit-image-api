@@ -1,12 +1,12 @@
-package com.kjs.image
+package com.example.boot
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class ManageImageApiApplication
+class ExampleSpringBootApplication
 
 fun main(args: Array<String>) {
-    runApplication<ManageImageApiApplication>(*args)
+    runApplication<ExampleSpringBootApplication>(*args)
 
 }
